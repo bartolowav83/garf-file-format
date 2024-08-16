@@ -19,7 +19,7 @@ def garf_to_png(garf_file, png_file):
     img.putdata(pixels)
     img.save(png_file)
     
-    print(f"Converted {garf_file} in {png_file} finished.")
+    print(f"Converted {garf_file} into {png_file} finished.")
 
 # Example of use
 garf_to_png('output.garf', 'output.png')
