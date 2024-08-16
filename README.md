@@ -20,4 +20,6 @@ You can convert :
 - PNG → GARF
 - GARF → PNG
 
+NOTICE : IF YOU WANT, YOU CAN CHANGE THE INPUT AND THE OUTPUT FILENAME IN THE CONVERTER.
+
   Coded with love in Python ❤
