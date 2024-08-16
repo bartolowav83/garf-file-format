@@ -14,6 +14,7 @@ For more informations about the project, im making a github repo soon.
 # Disadvantages
 - This file format is large. (Fixing that issue soon)
 - Impossible to read this file in every image visualizer.
+- When you convert a GARF into a PNG file, the transparency is gone
 
 Before you convert, you need the following library :
 - Pillow
