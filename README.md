@@ -15,6 +15,9 @@ For more informations about the project, im making a github repo soon.
 - This file format is large. (Fixing that issue soon)
 - Impossible to read this file in every image visualizer.
 
+Before you convert, you need the following library :
+- Pillow
+
 You can convert :
 
 - PNG → GARF
